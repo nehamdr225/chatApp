@@ -1,6 +1,5 @@
 import 'package:chatApp/core/AppBarW.dart';
 import 'package:chatApp/core/FancyText.dart';
-import 'package:chatApp/core/Forms.dart';
 import 'package:chatApp/core/theme.dart';
 import 'package:chatApp/models/messageModel.dart';
 import 'package:chatApp/models/userModel.dart';
